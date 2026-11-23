@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-classic
+langchain-text-splitters
+faiss-cpu
+pypdf
+python-dotenv
+streamlit
+openai
+pyinstaller
+
