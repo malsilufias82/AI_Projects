@@ -1,0 +1,78 @@
+Platform Engineering:	12-07-2026	
+Product Engineering:	Week Ending 28-06-2026	
+Data Team:	Week ending 03-07	
+Dexia Team:	Week Ending 12-10-2025	
+PMI Team:	Week ending 12-07-2026	
+PTR Team:	Week ending 12-07-2026	
+		
+Name	Status	Status Report Reviewed by TL
+Amit Aggarwal	Pending	
+  └─ Amit Aggarwal	Pending	
+  └─ Kumar Kundan Singh	Pending	
+  └─ Pankaj Kumar1	Pending	
+  └─ Vivek Sharma	Pending	
+  └─ Tushar Bhatnagar	Pending	
+  └─ Vishok Kumar	Pending	
+Arun Kumar Jain	Pending	
+  └─ Arun Kumar Jain	Completed	
+  └─ Aashita Jain	Pending	
+  └─ Yuvraj Kaushik	Pending	
+Arvind Uniyal	Pending	
+  └─ Anshul Rawat	Completed	
+  └─ Arvind Uniyal	Completed	
+  └─ Md. Ehtesham Razi	Completed	
+  └─ Paras Soni	Completed	
+  └─ Seelam Brahama Reddy	Pending	
+Humera Parveen	Completed	
+  └─ Faisal Shah	Completed	
+  └─ Suresh R	Completed	
+  └─ Arti Kumari	Completed	
+  └─ Humera Parveen	Completed	
+  └─ Ram Pravesh	Completed	
+  └─ Sunil Nishad	Completed	
+Jaya Shukla	Completed	
+  └─ Jaya Shukla	Completed	
+  └─ Ashtar	Completed	
+  └─ Divya	Completed	
+  └─ Parth manoj Ojha	Completed	
+  └─ Sachin Kumar Yadav	Completed	
+  └─ Surbhi Suwalka	Completed	
+Monika Rawat	Completed	
+  └─ Monika Rawat	Completed	
+  └─ Rohit Kumar Pandey	Completed	
+  └─ Khushboo Rai	Completed	
+  └─ Arshad Jamal	Completed	
+  └─ Sumit Yadav	Completed	
+  └─ Harinath Bonthi	Completed	
+Saiful Islam	Completed	
+  └─ Ashish Jha	Completed	
+  └─ Dan Joshua Barnes	Completed	
+  └─ Narender Reddy Mallepalli	Completed	
+  └─ Paul Sharkey	Completed	
+  └─ Stephane Fraser	Completed	
+Sanjeev Biswas	Pending	
+  └─ H N Sridhara	Pending	
+  └─ Paritosh Saroj	Pending	
+  └─ Sanjeev Biswas	Pending	
+Saswat Kumar Patro	Completed	
+  └─ Saswat Kumar Patro	Completed	
+  └─ Vaibhav Srivastava	Completed	
+  └─ R Santosh	Completed	
+  └─ Yashasvi Baweja	Completed	
+Saurabh Singh	Completed	
+  └─ Harsh Vijeta	Completed	
+  └─ Manas Kumar	Completed	
+  └─ Neeraj Kumar	Completed	
+  └─ Satyajeet Suresh Deshmukh	Completed	
+  └─ Shubham Soni	Completed	
+  └─ Jagdeep Singh	Completed	
+Vineet Goyal	Pending	
+  └─ Akash Basavraj Melkeri	Completed	
+  └─ Shivam Pratap	Completed	
+  └─ Sivakumar M	Completed	
+  └─ Vineet Goyal	Completed	
+  └─ Sachin Dattatraya Mangarule	Completed	
+  └─ Pallavi Swapnil Shelke	Completed	
+  └─ Chetna Raghav	Completed	
+  └─ Surya Pratap Singh	Completed	
+  └─ Utsav Trivedi	Pending	

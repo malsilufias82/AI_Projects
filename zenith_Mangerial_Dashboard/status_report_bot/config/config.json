@@ -1,0 +1,56 @@
+{
+    "team_excel_files": [
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc-my.sharepoint.com/:x:/r/personal/jitender_sachdeva_vlinkinfo_com/_layouts/15/Doc.aspx?sourcedoc=%7B5A9FB178-80C4-42AD-8B27-326BDEFFD272%7D&file=Dexia%20Team%20-%20Standup%20Status.xlsx&fromShare=true&action=default&mobileredirect=true",
+            "team_name": "Dexia",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        },
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc-my.sharepoint.com/:x:/r/personal/jitender_sachdeva_vlinkinfo_com/_layouts/15/Doc.aspx?sourcedoc=%7B393da9fb-0760-4e9d-aa89-f3bce74f7f08%7D&action=view&wdexp=TEAMS-TREATMENT&wdenableroaming=1&wdodb=1&wdlcid=en-US&wdorigin=TEAMS-MAGLEV.null_ns.rwc.Sharing.ServerTransfer&wdhostclicktime=1781859033830&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=25a5292-285e-759a-6c09-3787676309&wdrldsc=2&wdrldc=2&wdrldr=FileOpenUserUnauthorized%2CDeploymentInvalidEditSess",
+            "team_name": "PMI",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        },
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc-my.sharepoint.com/:x:/r/personal/arun_jain_vlinkinfo_com/_layouts/15/Doc.aspx?sourcedoc=%7Bcde46010-9e4b-4386-9e46-dc42ca8d8a6e%7D&action=view&wdexp=TEAMS-TREATMENT&wdenableroaming=1&wdodb=1&wdlcid=en-US&wdorigin=Sharing.ServerTransfer&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=2bfdb89c-6fb1-6f76-a5f1-b2ab5e8ade78&wdrldsc=2&wdrldc=2&wdrldr=FileOpenUserUnauthorized%2CDeploymentInvalidEditSess",
+            "team_name": "Product",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        },
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc-my.sharepoint.com/:x:/r/personal/lokendra_kumar_vlinkinfo_com/_layouts/15/Doc.aspx?sourcedoc=%7Ba1771b0a-0c7d-4df9-bcbc-af3c8f30d695%7D&action=view&wdexp=TEAMS-TREATMENT&wdenableroaming=1&wdodb=1&wdlcid=en-US&wdorigin=Other&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=e086ba4a-d7d7-68af-bf50-99010d59ca05&wdrldsc=2&wdrldc=2&wdrldr=FileOpenUserUnauthorized%2CDeploymentInvalidEditSess",
+            "team_name": "Data",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        },
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc.sharepoint.com/:x:/r/teams/BlackRock-ProjectPheonix/_layouts/15/doc2.aspx?sourcedoc=%7Bc53f060c-e936-4986-b465-42a83e37e52e%7D&action=view&activeCell=%27Week%20Ending%2019-06%27!M29&wdinitialsession=a6467da2-f530-369a-7e31-71abb0d3b8ee&wdrldsc=3&wdrldc=1&wdrldr=PromptEditInBrowser%2CAccessTokenExpiredWarningUnaut",
+            "team_name": "BlackRock Phoenix",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        },
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc-my.sharepoint.com/:x:/r/personal/priyanka_shrivastava_vlinkinfo_com/_layouts/15/Doc.aspx?sourcedoc=%7B40e87cbf-9244-4b5b-9f5f-b576ddfca0ad%7D&action=view&wdinitialsession=ec381386-c7f1-17b4-245a-0a00c286d489&wdrldsc=14&wdrldc=2&wdrldr=FileOpenUserUnauthorized%2CDeploymentInvalidEditSess&wdenableroaming=1&wdodb=1&wdlcid=en-US&wdorigin=Other&wdredirectionreason=Force_SingleStepBoot",
+            "team_name": "Platform",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        },
+        {
+            "type": "sharepoint",
+            "file_path": "https://vlinkinc-my.sharepoint.com/:x:/g/personal/priyanka_shrivastava_vlinkinfo_com/IQD_e8FZAJlYR4FJx2sE5GwnAdptqDk2Iufo4RxceX8g_6g?e=AS5kQZ&or=EXCEL-WEB.BODY.NT&ct=1781006355635&isSPOFile=1&ovuser=63dd55b1-822c-4b3d-9792-dc1e34f5235f%2Canamika.mishra%40vlinkinfo.com&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=83659e44-e89c-4096-bca5-42744e36c524&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA1MTQxNjcxNSJ9&linkOpenTime=1781859117441",
+            "team_name": "Another Team",
+            "sheet_pattern": "^\\d{1,2}-\\d{1,2}-\\d{4}$"
+        }
+    ],
+    "scheduler": {
+        "morning_time": "10:45",
+        "evening_time": "17:00",
+        "timezone": "Asia/Kolkata",
+        "holidays": []
+    },
+    "reports_folder": "./reports",
+    "logs_folder": "./logs",
+    "data_folder": "./data",
+    "skipped_employees_file": "./data/skipped_employees.json"
+}

@@ -1,0 +1,1 @@
+import{Bn as e,In as t,Sn as n,Un as r,gn as i,kt as a,xn as o}from"./index-DOzSn3S9.js";import{n as s,t as c}from"./QLayout-DxcYumSF.js";var l=n({name:`PlainLayout`});function u(n,a,l,u,d,f){let p=e(`router-view`);return t(),i(c,{view:`lHh lpr lFf`},{default:r(()=>[o(s,null,{default:r(()=>[o(p)]),_:1})]),_:1})}var d=a(l,[[`render`,u]]);export{d as default};

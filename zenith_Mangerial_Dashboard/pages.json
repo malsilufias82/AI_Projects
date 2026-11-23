@@ -1,0 +1,108 @@
+{
+  "pages": [
+    {
+      "name": "home",
+      "display_name": "Home",
+      "description": "Home page dashboard and overview",
+      "category": "main",
+      "icon": "home",
+      "route": "/",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "name": "status_report",
+      "display_name": "Status Report",
+      "description": "Status update reports and analysis",
+      "category": "main",
+      "icon": "assessment",
+      "route": "/status-report",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "name": "members",
+      "display_name": "Members",
+      "description": "User and member management",
+      "category": "management",
+      "icon": "people",
+      "route": "/members",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "name": "files",
+      "display_name": "Files",
+      "description": "File management and document storage",
+      "category": "management",
+      "icon": "folder",
+      "route": "/files",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "name": "permissions",
+      "display_name": "Permissions",
+      "description": "Access control and permission management",
+      "category": "management",
+      "icon": "lock",
+      "route": "/permissions",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "name": "OnboardingEmployee",
+      "display_name": "Onboarding",
+      "description": "Onboarding Employee Status and Report",
+      "category": "main",
+      "icon": "person",
+      "route": "/onboarding-dashboard",
+      "order": 6,
+      "enabled": true
+    },
+    {
+      "name": "clients",
+      "display_name": "Clients",
+      "description": "Client management and information",
+      "category": "management",
+      "icon": "business",
+      "route": "/clients",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "name": "projects",
+      "display_name": "Projects",
+      "description": "Project management and tracking",
+      "category": "management",
+      "icon": "work",
+      "route": "/projects",
+      "order": 5,
+      "enabled": true
+    },
+    {
+      "name": "daily_status",
+      "display_name": "Daily Status",
+      "description": "Daily status updates and reports",
+      "category": "main",
+      "icon": "update",
+      "route": "/daily-status",
+      "order": 3,
+      "enabled": true
+    }
+  ],
+  "categories": [
+    {
+      "name": "main",
+      "display_name": "Main",
+      "icon": "dashboard",
+      "order": 1
+    },
+    {
+      "name": "management",
+      "display_name": "Management",
+      "icon": "settings",
+      "order": 2
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{Tn as e}from"./index-DOzSn3S9.js";function t(){return e(`_q_`)}export{t};

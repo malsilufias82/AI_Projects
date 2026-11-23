@@ -1,0 +1,40 @@
+// app global css in SCSS form
+body {
+  background-color: #F5F5F5;
+  color: rgba(0, 0, 0, 0.87);
+}
+.q-drawer {
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.87);
+}
+.q-router-link--exact-active .q-item__label--caption {
+    color: rgba(255, 255, 255, 0.6);
+}
+.q-drawer .scroll {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.3) transparent;
+}
+.q-drawer .q-separator {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.home-page .q-date__view {
+  padding-top: 0px;
+  min-height: auto;
+}
+.home-page .q-date__calendar-days-container {
+    min-height: auto;
+}
+.permissions-page .q-tabs__content {
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.col-approx-12 {
+  flex: 0 0 14%;
+  width: 14%;
+  max-width: 14%;
+}
+.col-approx-10 {
+  flex: 0 0 14%;
+  width: 10%;
+  max-width: 10%;
+}
